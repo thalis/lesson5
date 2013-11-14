@@ -1,3 +1,6 @@
+#Author: Thanos Strantzalis
+# Date: November 2013
+
 rm(list = ls())
 
 average<- function(x,y){
